@@ -11,3 +11,5 @@ User should be able to type in text areas and save info typed to local storage.
 ![Image](/Capture.PNG)
 
 The link to my planner is:
+https://samantha131821.github.io/dailyplanner/
+
